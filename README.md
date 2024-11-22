@@ -1,7 +1,7 @@
 # Chapter 9: Membuat aplikasi konversi mata uang
 
 ## GitHube Pages
-Link: [Password Generator](https://fatahpratam.github.io/tutorial-currency-converter/)
+Link: [Currency Converter](https://fatahpratam.github.io/tutorial-currency-converter/)
 
 ## Youtube Tutorial
 - Link: [Full Stack React Developer Course with Appwrite](https://www.youtube.com/watch?v=Bvwq_S0n2pk)
